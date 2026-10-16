@@ -164,7 +164,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2.png"
  },
@@ -177,7 +177,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 12,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/12.png"
  },
@@ -190,7 +190,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 78,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/78.png"
  },
@@ -203,7 +203,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 225,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/225.png"
  },
@@ -216,7 +216,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 235,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/235.png"
  },
@@ -229,7 +229,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 289,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/289.png"
  },
@@ -242,7 +242,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 543,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/543.png"
  },
@@ -255,7 +255,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 568,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/568.png"
  },
@@ -268,7 +268,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 611,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/611.png"
  },
@@ -281,7 +281,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 612,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/612.png"
  },
@@ -294,7 +294,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 658,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/658.png"
  },
@@ -307,35 +307,9 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 762,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/762.png"
- },
- {
-  "id": "ptbxl-4408",
-  "classId": "STACH",
-  "acceptable": [
-   "STACH"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 4408,
-  "likelihood": 80.0,
-  "validated": true,
-  "image": "ecgs/4408.png"
- },
- {
-  "id": "ptbxl-18178",
-  "classId": "STACH",
-  "acceptable": [
-   "STACH"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 18178,
-  "likelihood": 50.0,
-  "validated": true,
-  "image": "ecgs/18178.png"
  },
  {
   "id": "ptbxl-103",
@@ -346,7 +320,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 103,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/103.png"
  },
@@ -359,7 +333,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 108,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/108.png"
  },
@@ -372,7 +346,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 263,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/263.png"
  },
@@ -385,7 +359,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 698,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/698.png"
  },
@@ -398,7 +372,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 849,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/849.png"
  },
@@ -411,7 +385,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 855,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/855.png"
  },
@@ -424,7 +398,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 860,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/860.png"
  },
@@ -437,7 +411,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 887,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/887.png"
  },
@@ -450,7 +424,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 969,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/969.png"
  },
@@ -463,9 +437,35 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 976,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/976.png"
+ },
+ {
+  "id": "ptbxl-995",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 995,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/995.png"
+ },
+ {
+  "id": "ptbxl-1055",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1055,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/1055.png"
  },
  {
   "id": "ptbxl-3076",
@@ -2368,136 +2368,6 @@
   "image": "ecgs/13415.png"
  },
  {
-  "id": "ptbxl-4117",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 4117,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/4117.png"
- },
- {
-  "id": "ptbxl-4761",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 4761,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/4761.png"
- },
- {
-  "id": "ptbxl-8215",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 8215,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/8215.png"
- },
- {
-  "id": "ptbxl-12542",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 12542,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/12542.png"
- },
- {
-  "id": "ptbxl-13832",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 13832,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/13832.png"
- },
- {
-  "id": "ptbxl-14102",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 14102,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/14102.png"
- },
- {
-  "id": "ptbxl-14221",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 14221,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/14221.png"
- },
- {
-  "id": "ptbxl-15834",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 15834,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/15834.png"
- },
- {
-  "id": "ptbxl-19956",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 19956,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/19956.png"
- },
- {
-  "id": "ptbxl-20406",
-  "classId": "AF",
-  "acceptable": [
-   "AF"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 20406,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/20406.png"
- },
- {
   "id": "ptbxl-321",
   "classId": "AF",
   "acceptable": [
@@ -2506,7 +2376,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 321,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/321.png"
  },
@@ -2519,9 +2389,139 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 330,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/330.png"
+ },
+ {
+  "id": "ptbxl-337",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 337,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/337.png"
+ },
+ {
+  "id": "ptbxl-482",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 482,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/482.png"
+ },
+ {
+  "id": "ptbxl-557",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 557,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/557.png"
+ },
+ {
+  "id": "ptbxl-567",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 567,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/567.png"
+ },
+ {
+  "id": "ptbxl-569",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 569,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/569.png"
+ },
+ {
+  "id": "ptbxl-608",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 608,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/608.png"
+ },
+ {
+  "id": "ptbxl-637",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 637,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/637.png"
+ },
+ {
+  "id": "ptbxl-674",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 674,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/674.png"
+ },
+ {
+  "id": "ptbxl-699",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 699,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/699.png"
+ },
+ {
+  "id": "ptbxl-703",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 703,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/703.png"
  },
  {
   "id": "ptbxl-20",
@@ -2532,7 +2532,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 20,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/20.png"
  },
@@ -2545,7 +2545,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 23,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/23.png"
  },
@@ -2558,7 +2558,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 449,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/449.png"
  },
@@ -2571,7 +2571,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1773,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1773.png"
  },
@@ -2584,7 +2584,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2430,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2430.png"
  },
@@ -2597,9 +2597,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2739,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2739.png"
+ },
+ {
+  "id": "ptbxl-2795",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2795,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/2795.png"
  },
  {
   "id": "ptbxl-3306",
@@ -2610,7 +2623,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 3306,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/3306.png"
  },
@@ -2623,7 +2636,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 5252,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/5252.png"
  },
@@ -2636,7 +2649,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 6179,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/6179.png"
  },
@@ -2649,35 +2662,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 6205,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/6205.png"
  },
  {
-  "id": "ptbxl-7159",
+  "id": "ptbxl-6704",
   "classId": "AFL",
   "acceptable": [
    "AFL"
   ],
   "set": "B",
   "source": "PTB-XL v1.0.3",
-  "ecgId": 7159,
-  "likelihood": 100.0,
+  "ecgId": 6704,
+  "likelihood": null,
   "validated": true,
-  "image": "ecgs/7159.png"
- },
- {
-  "id": "ptbxl-8265",
-  "classId": "AFL",
-  "acceptable": [
-   "AFL"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 8265,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/8265.png"
+  "image": "ecgs/6704.png"
  },
  {
   "id": "ptbxl-1919",
@@ -2688,7 +2688,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1919,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1919.png"
  },
@@ -2701,7 +2701,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2051,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2051.png"
  },
@@ -2714,7 +2714,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 3134,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/3134.png"
  },
@@ -2727,7 +2727,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 3267,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/3267.png"
  },
@@ -2740,9 +2740,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 3476,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/3476.png"
+ },
+ {
+  "id": "ptbxl-7075",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7075,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/7075.png"
  },
  {
   "id": "ptbxl-7889",
@@ -2753,7 +2766,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 7889,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/7889.png"
  },
@@ -2766,7 +2779,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 8461,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/8461.png"
  },
@@ -2779,9 +2792,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 9866,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/9866.png"
+ },
+ {
+  "id": "ptbxl-10034",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10034,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/10034.png"
  },
  {
   "id": "ptbxl-10306",
@@ -2792,48 +2818,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 10306,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/10306.png"
  },
  {
-  "id": "ptbxl-12346",
+  "id": "ptbxl-10936",
   "classId": "SVT",
   "acceptable": [
    "SVT"
   ],
   "set": "B",
   "source": "PTB-XL v1.0.3",
-  "ecgId": 12346,
-  "likelihood": 100.0,
+  "ecgId": 10936,
+  "likelihood": null,
   "validated": true,
-  "image": "ecgs/12346.png"
- },
- {
-  "id": "ptbxl-12489",
-  "classId": "SVT",
-  "acceptable": [
-   "SVT"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 12489,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/12489.png"
- },
- {
-  "id": "ptbxl-13186",
-  "classId": "SVT",
-  "acceptable": [
-   "SVT"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 13186,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/13186.png"
+  "image": "ecgs/10936.png"
  },
  {
   "id": "ptbxl-219",
@@ -2844,7 +2844,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 219,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/219.png"
  },
@@ -2857,9 +2857,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 255,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/255.png"
+ },
+ {
+  "id": "ptbxl-297",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 297,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/297.png"
  },
  {
   "id": "ptbxl-436",
@@ -2870,9 +2883,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 436,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/436.png"
+ },
+ {
+  "id": "ptbxl-503",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 503,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/503.png"
  },
  {
   "id": "ptbxl-575",
@@ -2883,7 +2909,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 575,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/575.png"
  },
@@ -2896,9 +2922,22 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 628,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/628.png"
+ },
+ {
+  "id": "ptbxl-631",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 631,
+  "likelihood": null,
+  "validated": true,
+  "image": "ecgs/631.png"
  },
  {
   "id": "ptbxl-632",
@@ -2909,7 +2948,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 632,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/632.png"
  },
@@ -2922,7 +2961,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 665,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/665.png"
  },
@@ -2935,7 +2974,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 818,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/818.png"
  },
@@ -2948,48 +2987,9 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 841,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/841.png"
- },
- {
-  "id": "ptbxl-914",
-  "classId": "PVC",
-  "acceptable": [
-   "PVC"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 914,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/914.png"
- },
- {
-  "id": "ptbxl-987",
-  "classId": "PVC",
-  "acceptable": [
-   "PVC"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 987,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/987.png"
- },
- {
-  "id": "ptbxl-1044",
-  "classId": "PVC",
-  "acceptable": [
-   "PVC"
-  ],
-  "set": "B",
-  "source": "PTB-XL v1.0.3",
-  "ecgId": 1044,
-  "likelihood": 100.0,
-  "validated": true,
-  "image": "ecgs/1044.png"
  },
  {
   "id": "ptbxl-144",
@@ -3000,7 +3000,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 144,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/144.png"
  },
@@ -3013,7 +3013,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1596,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1596.png"
  },
@@ -3026,7 +3026,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1641,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1641.png"
  },
@@ -3039,7 +3039,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1674,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1674.png"
  },
@@ -3052,7 +3052,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2090,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2090.png"
  },
@@ -3065,7 +3065,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2205,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2205.png"
  },
@@ -3078,7 +3078,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2218,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2218.png"
  },
@@ -3091,7 +3091,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2486,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2486.png"
  },
@@ -3104,7 +3104,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2664,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2664.png"
  },
@@ -3117,7 +3117,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 2828,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/2828.png"
  },
@@ -3130,7 +3130,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 3672,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/3672.png"
  },
@@ -3143,7 +3143,7 @@
   "set": "B",
   "source": "PTB-XL v1.0.3",
   "ecgId": 3723,
-  "likelihood": 100.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/3723.png"
  },
@@ -3936,7 +3936,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 348,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/348.png"
  },
@@ -3949,7 +3949,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 407,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/407.png"
  },
@@ -3962,7 +3962,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 442,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/442.png"
  },
@@ -3975,7 +3975,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 971,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/971.png"
  },
@@ -3988,7 +3988,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1067,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1067.png"
  },
@@ -4001,7 +4001,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1415,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1415.png"
  },
@@ -4014,7 +4014,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1450,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1450.png"
  },
@@ -4027,7 +4027,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1599,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1599.png"
  },
@@ -4040,7 +4040,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1681,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1681.png"
  },
@@ -4053,7 +4053,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1693,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1693.png"
  },
@@ -4066,7 +4066,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1744,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1744.png"
  },
@@ -4079,7 +4079,7 @@
   "set": "A",
   "source": "PTB-XL v1.0.3",
   "ecgId": 1754,
-  "likelihood": 0.0,
+  "likelihood": null,
   "validated": true,
   "image": "ecgs/1754.png"
  }

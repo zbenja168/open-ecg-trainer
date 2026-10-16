@@ -38,9 +38,11 @@ NOISE = ("baseline_drift", "static_noise", "burst_noise", "electrodes_problems")
 DPI = 150
 
 
-def class_likelihood(rec, spec):
-    codes = [c for alt in spec.split(";") for c in alt.split("+")]
-    return max((rec["codes"].get(c, 0) for c in codes), default=0)
+def class_likelihood(rec, spec, diagnostic):
+    """Highest likelihood among the class's diagnostic codes, or None for rhythm/form-only classes,
+    which PTB-XL does not grade (they always carry 0)."""
+    codes = [c for alt in spec.split(";") for c in alt.split("+") if diagnostic.get(c)]
+    return max((rec["codes"].get(c, 0) for c in codes), default=0) if codes else None
 
 
 def render_one(args):
@@ -84,7 +86,7 @@ def main():
         def rank(r):
             others = [m for m in matches[r["ecg_id"]] if m not in (cid, "NORM")]
             return (len(others), r["validated_by_human"] != "True", any(r[x] for x in NOISE),
-                    -class_likelihood(r, c["ptbxl_codes"]), int(r["ecg_id"]))
+                    -(class_likelihood(r, c["ptbxl_codes"], diagnostic) or 0), int(r["ecg_id"]))
 
         for r in sorted(pool, key=rank)[:n]:
             chosen.add(r["ecg_id"])
@@ -95,7 +97,7 @@ def main():
                 "set": c["set"],
                 "source": "PTB-XL v1.0.3",
                 "ecgId": int(r["ecg_id"]),
-                "likelihood": class_likelihood(r, c["ptbxl_codes"]),
+                "likelihood": class_likelihood(r, c["ptbxl_codes"], diagnostic),
                 "validated": r["validated_by_human"] == "True",
                 "image": f"ecgs/{r['ecg_id']}.png",
                 "_path": str(RAW / r["filename_hr"]),

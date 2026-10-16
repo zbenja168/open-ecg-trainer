@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { buildSession, conditionOf, gradeFor, nextDue, review, spacedSet, type QueueEntry } from './scheduler'
 import { clear, download, load, logAsCsv, newProgress, save } from './storage'
+import { useTheme } from './theme'
 import type { EcgClass, Item, Progress, ResponseLog } from './types'
 
 type Screen = 'home' | 'practice' | 'done'
@@ -27,7 +28,7 @@ export default function App() {
 
   useEffect(() => save(progress), [progress])
 
-  if (error) return <Shell><p className="text-red-700">Could not load the item bank: {error}</p></Shell>
+  if (error) return <Shell><p className="text-danger">Could not load the item bank: {error}</p></Shell>
   if (!items) return <Shell><p>Loading…</p></Shell>
 
   const start = () => {
@@ -81,14 +82,20 @@ export default function App() {
 }
 
 function Shell({ children }: { children: React.ReactNode }) {
+  const { theme, cycle } = useTheme()
   return (
     <div className="mx-auto max-w-5xl px-4 py-6">
-      <header className="mb-6 flex items-baseline justify-between border-b border-stone-300 pb-3">
+      <header className="mb-6 flex flex-wrap items-baseline justify-between gap-2 border-b border-line pb-3">
         <h1 className="text-2xl font-semibold tracking-tight">Open ECG Trainer</h1>
-        <span className="text-xs text-stone-500">prototype · items not yet cardiologist-reviewed</span>
+        <div className="flex items-baseline gap-3">
+          <span className="text-xs text-muted">prototype · items not yet cardiologist-reviewed</span>
+          <button className="btn-quiet text-xs" onClick={cycle} title="Switch colour theme">
+            Theme: {theme === 'system' ? 'System' : theme === 'light' ? 'Light' : 'Dark'}
+          </button>
+        </div>
       </header>
       {children}
-      <footer className="mt-10 border-t border-stone-300 pt-3 text-xs text-stone-500">
+      <footer className="mt-10 border-t border-line pt-3 text-xs text-muted">
         ECGs: PTB-XL v1.0.3 (Wagner et al., Sci Data 2020; PhysioNet), CC BY 4.0, re-rendered at 25 mm/s and
         10 mm/mV. Code MIT.
       </footer>
@@ -118,12 +125,12 @@ function Home({ items, classes, progress, onStart, onReset }: {
 
   return (
     <div className="space-y-6">
-      <section className="rounded-lg border border-stone-300 bg-white p-4">
-        <p className="text-sm text-stone-600">
+      <section className="rounded-lg border border-line bg-panel p-4">
+        <p className="text-sm text-muted">
           Participant <code>{progress.participant.key}</code> · set {spaced} spaced, set {spaced === 'A' ? 'B' : 'A'} massed
           · {progress.log.length} responses logged
         </p>
-        <p className="mt-1 text-sm text-stone-600">
+        <p className="mt-1 text-sm text-muted">
           {dueCount} spaced reviews due now
           {due && dueCount === 0 ? `; next due ${due.toLocaleString()}` : ''} · massed blocks done {progress.massedDone.length}
         </p>
@@ -133,12 +140,12 @@ function Home({ items, classes, progress, onStart, onReset }: {
       <section>
         <h2 className="mb-2 font-semibold">Accuracy by class</h2>
         <table className="w-full text-sm">
-          <thead><tr className="text-left text-stone-500"><th>Class</th><th>Set</th><th>Seen</th><th>Correct</th></tr></thead>
+          <thead><tr className="text-left text-muted"><th>Class</th><th>Set</th><th>Seen</th><th>Correct</th></tr></thead>
           <tbody>
             {classes.filter((c) => c.available).map((c) => {
               const s = byClass.get(c.id)
               return (
-                <tr key={c.id} className="border-t border-stone-200">
+                <tr key={c.id} className="border-t border-line-soft">
                   <td className="py-1">{c.name}</td><td>{c.set}</td><td>{s?.n ?? 0}</td>
                   <td>{s ? `${Math.round((100 * s.right) / s.n)}%` : '-'}</td>
                 </tr>
@@ -186,10 +193,10 @@ function Practice({ entry, classes, index, total, participant, sessionId, onAnsw
 
   return (
     <div className="space-y-4">
-      <p className="text-sm text-stone-500">ECG {index + 1} of {total}</p>
+      <p className="text-sm text-muted">ECG {index + 1} of {total}</p>
       <a href={item.image} target="_blank" rel="noreferrer" title="Open full size">
         {/* latency is timed from when the ECG is visible, not from when the screen mounted */}
-        <img src={item.image} alt="12-lead ECG" className="w-full rounded border border-stone-300 bg-white"
+        <img src={item.image} alt="12-lead ECG" className="w-full rounded border border-line bg-white"
           onLoad={() => { shownAt.current = new Date() }} />
       </a>
 
@@ -198,7 +205,7 @@ function Practice({ entry, classes, index, total, participant, sessionId, onAnsw
           <div className="space-y-2">
             {groups.map((g) => (
               <div key={g}>
-                <p className="text-xs uppercase tracking-wide text-stone-500">{g}</p>
+                <p className="text-xs uppercase tracking-wide text-muted">{g}</p>
                 <div className="mt-1 flex flex-wrap gap-1.5">
                   {options.filter((c) => c.group === g).map((c) => (
                     <button key={c.id} onClick={() => setAnswer(c.id)}
@@ -214,18 +221,19 @@ function Practice({ entry, classes, index, total, participant, sessionId, onAnsw
               <button key={n} onClick={() => setConfidence(n)}
                 className={`chip w-9 justify-center ${confidence === n ? 'chip-on' : ''}`}>{n}</button>
             ))}
-            <span className="text-xs text-stone-500">1 = guessing, 5 = certain</span>
+            <span className="text-xs text-muted">1 = guessing, 5 = certain</span>
           </div>
           <button className="btn" disabled={!answer || !confidence} onClick={submit}>Check</button>
         </>
       ) : (
-        <div className={`rounded-lg border p-4 ${result.correct ? 'border-emerald-400 bg-emerald-50' : 'border-rose-400 bg-rose-50'}`}>
+        <div className={`rounded-lg border p-4 ${result.correct ? 'border-ok-line bg-ok' : 'border-bad-line bg-bad'}`}>
           <p className="font-semibold">{result.correct ? 'Correct' : `Not quite: you said ${nameOf(result.answer)}`}</p>
           <p className="mt-1">Label: <strong>{nameOf(item.classId)}</strong>
             {item.acceptable.length > 1 && <> (also accepted: {item.acceptable.filter((a) => a !== item.classId).map(nameOf).join(', ')})</>}
           </p>
-          <p className="mt-1 text-xs text-stone-600">
-            {item.source} record {item.ecgId} · label likelihood {item.likelihood}% ·{' '}
+          <p className="mt-1 text-xs text-muted">
+            {item.source} record {item.ecgId} ·{' '}
+            {item.likelihood === null ? 'rhythm/form label (likelihood not graded)' : `label likelihood ${item.likelihood}%`} ·{' '}
             {item.validated ? 'report human-validated' : 'report not human-validated'}
           </p>
           <button className="btn mt-3" onClick={onNext} autoFocus>Next</button>

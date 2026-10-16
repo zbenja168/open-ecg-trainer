@@ -18,7 +18,8 @@ export interface Item {
   set: SetId | 'both'
   source: string
   ecgId: number
-  likelihood: number
+  /** null for rhythm/form statements, which PTB-XL does not grade */
+  likelihood: number | null
   validated: boolean
   image: string
 }
