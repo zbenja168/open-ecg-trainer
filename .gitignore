@@ -1,0 +1,10 @@
+data/raw/
+__pycache__/
+.venv/
+web/public/ecgs/
+renders/
+
+# internal working notes, kept local
+CLAUDE.md
+HANDOFF.md
+proposal.pdf

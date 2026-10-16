@@ -1,0 +1,4086 @@
+[
+ {
+  "id": "ptbxl-3",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3.png"
+ },
+ {
+  "id": "ptbxl-7",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/7.png"
+ },
+ {
+  "id": "ptbxl-10",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10.png"
+ },
+ {
+  "id": "ptbxl-14",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 14,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/14.png"
+ },
+ {
+  "id": "ptbxl-19",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 19,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/19.png"
+ },
+ {
+  "id": "ptbxl-21",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 21,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/21.png"
+ },
+ {
+  "id": "ptbxl-24",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 24,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/24.png"
+ },
+ {
+  "id": "ptbxl-29",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 29,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/29.png"
+ },
+ {
+  "id": "ptbxl-31",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 31,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/31.png"
+ },
+ {
+  "id": "ptbxl-33",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 33,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/33.png"
+ },
+ {
+  "id": "ptbxl-35",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 35,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/35.png"
+ },
+ {
+  "id": "ptbxl-42",
+  "classId": "NORM",
+  "acceptable": [
+   "NORM"
+  ],
+  "set": "both",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 42,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/42.png"
+ },
+ {
+  "id": "ptbxl-2",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/2.png"
+ },
+ {
+  "id": "ptbxl-12",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/12.png"
+ },
+ {
+  "id": "ptbxl-78",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 78,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/78.png"
+ },
+ {
+  "id": "ptbxl-225",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 225,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/225.png"
+ },
+ {
+  "id": "ptbxl-235",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 235,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/235.png"
+ },
+ {
+  "id": "ptbxl-289",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 289,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/289.png"
+ },
+ {
+  "id": "ptbxl-543",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 543,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/543.png"
+ },
+ {
+  "id": "ptbxl-568",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 568,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/568.png"
+ },
+ {
+  "id": "ptbxl-611",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 611,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/611.png"
+ },
+ {
+  "id": "ptbxl-612",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 612,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/612.png"
+ },
+ {
+  "id": "ptbxl-658",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 658,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/658.png"
+ },
+ {
+  "id": "ptbxl-762",
+  "classId": "SB",
+  "acceptable": [
+   "SB"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 762,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/762.png"
+ },
+ {
+  "id": "ptbxl-4408",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4408,
+  "likelihood": 80.0,
+  "validated": true,
+  "image": "ecgs/4408.png"
+ },
+ {
+  "id": "ptbxl-18178",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 18178,
+  "likelihood": 50.0,
+  "validated": true,
+  "image": "ecgs/18178.png"
+ },
+ {
+  "id": "ptbxl-103",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 103,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/103.png"
+ },
+ {
+  "id": "ptbxl-108",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 108,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/108.png"
+ },
+ {
+  "id": "ptbxl-263",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 263,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/263.png"
+ },
+ {
+  "id": "ptbxl-698",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 698,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/698.png"
+ },
+ {
+  "id": "ptbxl-849",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 849,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/849.png"
+ },
+ {
+  "id": "ptbxl-855",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 855,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/855.png"
+ },
+ {
+  "id": "ptbxl-860",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 860,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/860.png"
+ },
+ {
+  "id": "ptbxl-887",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 887,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/887.png"
+ },
+ {
+  "id": "ptbxl-969",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 969,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/969.png"
+ },
+ {
+  "id": "ptbxl-976",
+  "classId": "STACH",
+  "acceptable": [
+   "STACH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 976,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/976.png"
+ },
+ {
+  "id": "ptbxl-3076",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3076,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3076.png"
+ },
+ {
+  "id": "ptbxl-5891",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 5891,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/5891.png"
+ },
+ {
+  "id": "ptbxl-7835",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7835,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/7835.png"
+ },
+ {
+  "id": "ptbxl-9177",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9177,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9177.png"
+ },
+ {
+  "id": "ptbxl-11944",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11944,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/11944.png"
+ },
+ {
+  "id": "ptbxl-11948",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11948,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/11948.png"
+ },
+ {
+  "id": "ptbxl-13858",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 13858,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/13858.png"
+ },
+ {
+  "id": "ptbxl-16272",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 16272,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/16272.png"
+ },
+ {
+  "id": "ptbxl-18097",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 18097,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/18097.png"
+ },
+ {
+  "id": "ptbxl-18538",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 18538,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/18538.png"
+ },
+ {
+  "id": "ptbxl-19050",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 19050,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/19050.png"
+ },
+ {
+  "id": "ptbxl-19067",
+  "classId": "STEMI_ANTLAT",
+  "acceptable": [
+   "STEMI_ANTLAT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 19067,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/19067.png"
+ },
+ {
+  "id": "ptbxl-532",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 532,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/532.png"
+ },
+ {
+  "id": "ptbxl-8075",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8075,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8075.png"
+ },
+ {
+  "id": "ptbxl-8611",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8611,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8611.png"
+ },
+ {
+  "id": "ptbxl-8652",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8652,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8652.png"
+ },
+ {
+  "id": "ptbxl-12841",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12841,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12841.png"
+ },
+ {
+  "id": "ptbxl-12899",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12899,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12899.png"
+ },
+ {
+  "id": "ptbxl-14280",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 14280,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/14280.png"
+ },
+ {
+  "id": "ptbxl-2525",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2525,
+  "likelihood": 50.0,
+  "validated": true,
+  "image": "ecgs/2525.png"
+ },
+ {
+  "id": "ptbxl-17083",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 17083,
+  "likelihood": 50.0,
+  "validated": true,
+  "image": "ecgs/17083.png"
+ },
+ {
+  "id": "ptbxl-514",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 514,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/514.png"
+ },
+ {
+  "id": "ptbxl-4166",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4166,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4166.png"
+ },
+ {
+  "id": "ptbxl-10998",
+  "classId": "STEMI_INF",
+  "acceptable": [
+   "STEMI_INF"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10998,
+  "likelihood": 100.0,
+  "validated": false,
+  "image": "ecgs/10998.png"
+ },
+ {
+  "id": "ptbxl-1081",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1081,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1081.png"
+ },
+ {
+  "id": "ptbxl-2993",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2993,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2993.png"
+ },
+ {
+  "id": "ptbxl-4748",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4748,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4748.png"
+ },
+ {
+  "id": "ptbxl-4781",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4781,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4781.png"
+ },
+ {
+  "id": "ptbxl-4824",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4824,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4824.png"
+ },
+ {
+  "id": "ptbxl-5053",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 5053,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/5053.png"
+ },
+ {
+  "id": "ptbxl-6454",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6454,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6454.png"
+ },
+ {
+  "id": "ptbxl-6962",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6962,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6962.png"
+ },
+ {
+  "id": "ptbxl-9807",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9807,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9807.png"
+ },
+ {
+  "id": "ptbxl-10769",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10769,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10769.png"
+ },
+ {
+  "id": "ptbxl-12173",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12173,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12173.png"
+ },
+ {
+  "id": "ptbxl-13431",
+  "classId": "POST",
+  "acceptable": [
+   "POST"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 13431,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/13431.png"
+ },
+ {
+  "id": "ptbxl-483",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 483,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/483.png"
+ },
+ {
+  "id": "ptbxl-530",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 530,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/530.png"
+ },
+ {
+  "id": "ptbxl-705",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 705,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/705.png"
+ },
+ {
+  "id": "ptbxl-765",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 765,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/765.png"
+ },
+ {
+  "id": "ptbxl-912",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 912,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/912.png"
+ },
+ {
+  "id": "ptbxl-968",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 968,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/968.png"
+ },
+ {
+  "id": "ptbxl-1138",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1138,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1138.png"
+ },
+ {
+  "id": "ptbxl-1215",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1215,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1215.png"
+ },
+ {
+  "id": "ptbxl-1812",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1812,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1812.png"
+ },
+ {
+  "id": "ptbxl-2050",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2050,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2050.png"
+ },
+ {
+  "id": "ptbxl-2054",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2054,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2054.png"
+ },
+ {
+  "id": "ptbxl-2109",
+  "classId": "NSTEMI",
+  "acceptable": [
+   "NSTEMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2109,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2109.png"
+ },
+ {
+  "id": "ptbxl-290",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 290,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/290.png"
+ },
+ {
+  "id": "ptbxl-492",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 492,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/492.png"
+ },
+ {
+  "id": "ptbxl-577",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 577,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/577.png"
+ },
+ {
+  "id": "ptbxl-600",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 600,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/600.png"
+ },
+ {
+  "id": "ptbxl-607",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 607,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/607.png"
+ },
+ {
+  "id": "ptbxl-627",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 627,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/627.png"
+ },
+ {
+  "id": "ptbxl-955",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 955,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/955.png"
+ },
+ {
+  "id": "ptbxl-962",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 962,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/962.png"
+ },
+ {
+  "id": "ptbxl-1035",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1035,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1035.png"
+ },
+ {
+  "id": "ptbxl-1134",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1134,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1134.png"
+ },
+ {
+  "id": "ptbxl-1373",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1373,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1373.png"
+ },
+ {
+  "id": "ptbxl-1550",
+  "classId": "OLDMI",
+  "acceptable": [
+   "OLDMI"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1550,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1550.png"
+ },
+ {
+  "id": "ptbxl-286",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 286,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/286.png"
+ },
+ {
+  "id": "ptbxl-338",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 338,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/338.png"
+ },
+ {
+  "id": "ptbxl-517",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 517,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/517.png"
+ },
+ {
+  "id": "ptbxl-618",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 618,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/618.png"
+ },
+ {
+  "id": "ptbxl-635",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 635,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/635.png"
+ },
+ {
+  "id": "ptbxl-946",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 946,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/946.png"
+ },
+ {
+  "id": "ptbxl-1072",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1072,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1072.png"
+ },
+ {
+  "id": "ptbxl-1156",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1156,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1156.png"
+ },
+ {
+  "id": "ptbxl-1564",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1564,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1564.png"
+ },
+ {
+  "id": "ptbxl-1800",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1800,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1800.png"
+ },
+ {
+  "id": "ptbxl-1990",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1990,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1990.png"
+ },
+ {
+  "id": "ptbxl-2136",
+  "classId": "LBBB",
+  "acceptable": [
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2136,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2136.png"
+ },
+ {
+  "id": "ptbxl-621",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 621,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/621.png"
+ },
+ {
+  "id": "ptbxl-903",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 903,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/903.png"
+ },
+ {
+  "id": "ptbxl-1024",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1024,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1024.png"
+ },
+ {
+  "id": "ptbxl-1123",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1123,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1123.png"
+ },
+ {
+  "id": "ptbxl-2017",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2017,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2017.png"
+ },
+ {
+  "id": "ptbxl-2034",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2034,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2034.png"
+ },
+ {
+  "id": "ptbxl-3058",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3058,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3058.png"
+ },
+ {
+  "id": "ptbxl-3129",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3129,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3129.png"
+ },
+ {
+  "id": "ptbxl-3155",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3155,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3155.png"
+ },
+ {
+  "id": "ptbxl-3461",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3461,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3461.png"
+ },
+ {
+  "id": "ptbxl-3784",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3784,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3784.png"
+ },
+ {
+  "id": "ptbxl-3953",
+  "classId": "RBBB",
+  "acceptable": [
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3953,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3953.png"
+ },
+ {
+  "id": "ptbxl-172",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 172,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/172.png"
+ },
+ {
+  "id": "ptbxl-424",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 424,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/424.png"
+ },
+ {
+  "id": "ptbxl-455",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 455,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/455.png"
+ },
+ {
+  "id": "ptbxl-477",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 477,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/477.png"
+ },
+ {
+  "id": "ptbxl-680",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 680,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/680.png"
+ },
+ {
+  "id": "ptbxl-788",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 788,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/788.png"
+ },
+ {
+  "id": "ptbxl-871",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 871,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/871.png"
+ },
+ {
+  "id": "ptbxl-1240",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1240,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1240.png"
+ },
+ {
+  "id": "ptbxl-1437",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1437,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1437.png"
+ },
+ {
+  "id": "ptbxl-1570",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1570,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1570.png"
+ },
+ {
+  "id": "ptbxl-2535",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2535,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2535.png"
+ },
+ {
+  "id": "ptbxl-2599",
+  "classId": "BIFASC",
+  "acceptable": [
+   "BIFASC",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2599,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2599.png"
+ },
+ {
+  "id": "ptbxl-102",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 102,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/102.png"
+ },
+ {
+  "id": "ptbxl-182",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 182,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/182.png"
+ },
+ {
+  "id": "ptbxl-209",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 209,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/209.png"
+ },
+ {
+  "id": "ptbxl-218",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 218,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/218.png"
+ },
+ {
+  "id": "ptbxl-234",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 234,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/234.png"
+ },
+ {
+  "id": "ptbxl-556",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 556,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/556.png"
+ },
+ {
+  "id": "ptbxl-688",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 688,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/688.png"
+ },
+ {
+  "id": "ptbxl-800",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 800,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/800.png"
+ },
+ {
+  "id": "ptbxl-883",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 883,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/883.png"
+ },
+ {
+  "id": "ptbxl-1014",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1014,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1014.png"
+ },
+ {
+  "id": "ptbxl-1128",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1128,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1128.png"
+ },
+ {
+  "id": "ptbxl-1183",
+  "classId": "AVB1",
+  "acceptable": [
+   "AVB1"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1183,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1183.png"
+ },
+ {
+  "id": "ptbxl-8048",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8048,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8048.png"
+ },
+ {
+  "id": "ptbxl-14009",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 14009,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/14009.png"
+ },
+ {
+  "id": "ptbxl-1222",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1222,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1222.png"
+ },
+ {
+  "id": "ptbxl-13938",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 13938,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/13938.png"
+ },
+ {
+  "id": "ptbxl-9136",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2",
+   "DIG"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9136,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9136.png"
+ },
+ {
+  "id": "ptbxl-16401",
+  "classId": "AVB2",
+  "acceptable": [
+   "AFL",
+   "AVB2"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 16401,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/16401.png"
+ },
+ {
+  "id": "ptbxl-18101",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2",
+   "RBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 18101,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/18101.png"
+ },
+ {
+  "id": "ptbxl-19164",
+  "classId": "AVB2",
+  "acceptable": [
+   "AF",
+   "AVB2"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 19164,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/19164.png"
+ },
+ {
+  "id": "ptbxl-10300",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2",
+   "SB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10300,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10300.png"
+ },
+ {
+  "id": "ptbxl-11209",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2",
+   "SB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11209,
+  "likelihood": 100.0,
+  "validated": false,
+  "image": "ecgs/11209.png"
+ },
+ {
+  "id": "ptbxl-21748",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2",
+   "LVH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 21748,
+  "likelihood": 100.0,
+  "validated": false,
+  "image": "ecgs/21748.png"
+ },
+ {
+  "id": "ptbxl-21781",
+  "classId": "AVB2",
+  "acceptable": [
+   "AVB2",
+   "LVH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 21781,
+  "likelihood": 100.0,
+  "validated": false,
+  "image": "ecgs/21781.png"
+ },
+ {
+  "id": "ptbxl-959",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 959,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/959.png"
+ },
+ {
+  "id": "ptbxl-16271",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 16271,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/16271.png"
+ },
+ {
+  "id": "ptbxl-15368",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 15368,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/15368.png"
+ },
+ {
+  "id": "ptbxl-10505",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10505,
+  "likelihood": 100.0,
+  "validated": false,
+  "image": "ecgs/10505.png"
+ },
+ {
+  "id": "ptbxl-2047",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "LVH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2047,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2047.png"
+ },
+ {
+  "id": "ptbxl-4827",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "STEMI_INF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4827,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4827.png"
+ },
+ {
+  "id": "ptbxl-7688",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "LVH"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7688,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/7688.png"
+ },
+ {
+  "id": "ptbxl-8620",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8620,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8620.png"
+ },
+ {
+  "id": "ptbxl-8911",
+  "classId": "AVB3",
+  "acceptable": [
+   "AE",
+   "AVB3"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8911,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8911.png"
+ },
+ {
+  "id": "ptbxl-21533",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "LBBB"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 21533,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/21533.png"
+ },
+ {
+  "id": "ptbxl-4838",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "POST"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4838,
+  "likelihood": 50.0,
+  "validated": true,
+  "image": "ecgs/4838.png"
+ },
+ {
+  "id": "ptbxl-8210",
+  "classId": "AVB3",
+  "acceptable": [
+   "AVB3",
+   "LQT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8210,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8210.png"
+ },
+ {
+  "id": "ptbxl-2145",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2145,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2145.png"
+ },
+ {
+  "id": "ptbxl-4825",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4825,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4825.png"
+ },
+ {
+  "id": "ptbxl-5303",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 5303,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/5303.png"
+ },
+ {
+  "id": "ptbxl-6240",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6240,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6240.png"
+ },
+ {
+  "id": "ptbxl-9795",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9795,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9795.png"
+ },
+ {
+  "id": "ptbxl-9823",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9823,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9823.png"
+ },
+ {
+  "id": "ptbxl-10053",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10053,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10053.png"
+ },
+ {
+  "id": "ptbxl-10246",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10246,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10246.png"
+ },
+ {
+  "id": "ptbxl-11300",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11300,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/11300.png"
+ },
+ {
+  "id": "ptbxl-11889",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11889,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/11889.png"
+ },
+ {
+  "id": "ptbxl-12559",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12559,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12559.png"
+ },
+ {
+  "id": "ptbxl-13415",
+  "classId": "WPW",
+  "acceptable": [
+   "WPW"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 13415,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/13415.png"
+ },
+ {
+  "id": "ptbxl-4117",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4117,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4117.png"
+ },
+ {
+  "id": "ptbxl-4761",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4761,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4761.png"
+ },
+ {
+  "id": "ptbxl-8215",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8215,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8215.png"
+ },
+ {
+  "id": "ptbxl-12542",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12542,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12542.png"
+ },
+ {
+  "id": "ptbxl-13832",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 13832,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/13832.png"
+ },
+ {
+  "id": "ptbxl-14102",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 14102,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/14102.png"
+ },
+ {
+  "id": "ptbxl-14221",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 14221,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/14221.png"
+ },
+ {
+  "id": "ptbxl-15834",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 15834,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/15834.png"
+ },
+ {
+  "id": "ptbxl-19956",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 19956,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/19956.png"
+ },
+ {
+  "id": "ptbxl-20406",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 20406,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/20406.png"
+ },
+ {
+  "id": "ptbxl-321",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 321,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/321.png"
+ },
+ {
+  "id": "ptbxl-330",
+  "classId": "AF",
+  "acceptable": [
+   "AF"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 330,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/330.png"
+ },
+ {
+  "id": "ptbxl-20",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 20,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/20.png"
+ },
+ {
+  "id": "ptbxl-23",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 23,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/23.png"
+ },
+ {
+  "id": "ptbxl-449",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 449,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/449.png"
+ },
+ {
+  "id": "ptbxl-1773",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1773,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1773.png"
+ },
+ {
+  "id": "ptbxl-2430",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2430,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2430.png"
+ },
+ {
+  "id": "ptbxl-2739",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2739,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2739.png"
+ },
+ {
+  "id": "ptbxl-3306",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3306,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3306.png"
+ },
+ {
+  "id": "ptbxl-5252",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 5252,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/5252.png"
+ },
+ {
+  "id": "ptbxl-6179",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6179,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6179.png"
+ },
+ {
+  "id": "ptbxl-6205",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6205,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6205.png"
+ },
+ {
+  "id": "ptbxl-7159",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7159,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/7159.png"
+ },
+ {
+  "id": "ptbxl-8265",
+  "classId": "AFL",
+  "acceptable": [
+   "AFL"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8265,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8265.png"
+ },
+ {
+  "id": "ptbxl-1919",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1919,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1919.png"
+ },
+ {
+  "id": "ptbxl-2051",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2051,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2051.png"
+ },
+ {
+  "id": "ptbxl-3134",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3134,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3134.png"
+ },
+ {
+  "id": "ptbxl-3267",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3267,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3267.png"
+ },
+ {
+  "id": "ptbxl-3476",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3476,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3476.png"
+ },
+ {
+  "id": "ptbxl-7889",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7889,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/7889.png"
+ },
+ {
+  "id": "ptbxl-8461",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 8461,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/8461.png"
+ },
+ {
+  "id": "ptbxl-9866",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9866,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9866.png"
+ },
+ {
+  "id": "ptbxl-10306",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10306,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10306.png"
+ },
+ {
+  "id": "ptbxl-12346",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12346,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12346.png"
+ },
+ {
+  "id": "ptbxl-12489",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12489,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12489.png"
+ },
+ {
+  "id": "ptbxl-13186",
+  "classId": "SVT",
+  "acceptable": [
+   "SVT"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 13186,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/13186.png"
+ },
+ {
+  "id": "ptbxl-219",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 219,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/219.png"
+ },
+ {
+  "id": "ptbxl-255",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 255,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/255.png"
+ },
+ {
+  "id": "ptbxl-436",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 436,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/436.png"
+ },
+ {
+  "id": "ptbxl-575",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 575,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/575.png"
+ },
+ {
+  "id": "ptbxl-628",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 628,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/628.png"
+ },
+ {
+  "id": "ptbxl-632",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 632,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/632.png"
+ },
+ {
+  "id": "ptbxl-665",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 665,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/665.png"
+ },
+ {
+  "id": "ptbxl-818",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 818,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/818.png"
+ },
+ {
+  "id": "ptbxl-841",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 841,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/841.png"
+ },
+ {
+  "id": "ptbxl-914",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 914,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/914.png"
+ },
+ {
+  "id": "ptbxl-987",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 987,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/987.png"
+ },
+ {
+  "id": "ptbxl-1044",
+  "classId": "PVC",
+  "acceptable": [
+   "PVC"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1044,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1044.png"
+ },
+ {
+  "id": "ptbxl-144",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 144,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/144.png"
+ },
+ {
+  "id": "ptbxl-1596",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1596,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1596.png"
+ },
+ {
+  "id": "ptbxl-1641",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1641,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1641.png"
+ },
+ {
+  "id": "ptbxl-1674",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1674,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1674.png"
+ },
+ {
+  "id": "ptbxl-2090",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2090,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2090.png"
+ },
+ {
+  "id": "ptbxl-2205",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2205,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2205.png"
+ },
+ {
+  "id": "ptbxl-2218",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2218,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2218.png"
+ },
+ {
+  "id": "ptbxl-2486",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2486,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2486.png"
+ },
+ {
+  "id": "ptbxl-2664",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2664,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2664.png"
+ },
+ {
+  "id": "ptbxl-2828",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2828,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2828.png"
+ },
+ {
+  "id": "ptbxl-3672",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3672,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3672.png"
+ },
+ {
+  "id": "ptbxl-3723",
+  "classId": "PACED",
+  "acceptable": [
+   "PACED"
+  ],
+  "set": "B",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3723,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3723.png"
+ },
+ {
+  "id": "ptbxl-138",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 138,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/138.png"
+ },
+ {
+  "id": "ptbxl-223",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 223,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/223.png"
+ },
+ {
+  "id": "ptbxl-273",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 273,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/273.png"
+ },
+ {
+  "id": "ptbxl-296",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 296,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/296.png"
+ },
+ {
+  "id": "ptbxl-298",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 298,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/298.png"
+ },
+ {
+  "id": "ptbxl-383",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 383,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/383.png"
+ },
+ {
+  "id": "ptbxl-423",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 423,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/423.png"
+ },
+ {
+  "id": "ptbxl-534",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 534,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/534.png"
+ },
+ {
+  "id": "ptbxl-537",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 537,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/537.png"
+ },
+ {
+  "id": "ptbxl-542",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 542,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/542.png"
+ },
+ {
+  "id": "ptbxl-585",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 585,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/585.png"
+ },
+ {
+  "id": "ptbxl-609",
+  "classId": "LVH",
+  "acceptable": [
+   "LVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 609,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/609.png"
+ },
+ {
+  "id": "ptbxl-2417",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2417,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2417.png"
+ },
+ {
+  "id": "ptbxl-4713",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4713,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4713.png"
+ },
+ {
+  "id": "ptbxl-9496",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 9496,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/9496.png"
+ },
+ {
+  "id": "ptbxl-10279",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10279,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10279.png"
+ },
+ {
+  "id": "ptbxl-10487",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10487,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10487.png"
+ },
+ {
+  "id": "ptbxl-12025",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12025,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12025.png"
+ },
+ {
+  "id": "ptbxl-15902",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 15902,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/15902.png"
+ },
+ {
+  "id": "ptbxl-16462",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 16462,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/16462.png"
+ },
+ {
+  "id": "ptbxl-21681",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 21681,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/21681.png"
+ },
+ {
+  "id": "ptbxl-11872",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11872,
+  "likelihood": 80.0,
+  "validated": true,
+  "image": "ecgs/11872.png"
+ },
+ {
+  "id": "ptbxl-2409",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2409,
+  "likelihood": 50.0,
+  "validated": true,
+  "image": "ecgs/2409.png"
+ },
+ {
+  "id": "ptbxl-2748",
+  "classId": "RVH",
+  "acceptable": [
+   "RVH"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2748,
+  "likelihood": 50.0,
+  "validated": true,
+  "image": "ecgs/2748.png"
+ },
+ {
+  "id": "ptbxl-1228",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1228,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1228.png"
+ },
+ {
+  "id": "ptbxl-1471",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1471,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1471.png"
+ },
+ {
+  "id": "ptbxl-1785",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1785,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1785.png"
+ },
+ {
+  "id": "ptbxl-2297",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2297,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2297.png"
+ },
+ {
+  "id": "ptbxl-2324",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2324,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2324.png"
+ },
+ {
+  "id": "ptbxl-2330",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2330,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2330.png"
+ },
+ {
+  "id": "ptbxl-2957",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2957,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2957.png"
+ },
+ {
+  "id": "ptbxl-3142",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3142,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3142.png"
+ },
+ {
+  "id": "ptbxl-3250",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3250,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3250.png"
+ },
+ {
+  "id": "ptbxl-3269",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3269,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3269.png"
+ },
+ {
+  "id": "ptbxl-3449",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3449,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3449.png"
+ },
+ {
+  "id": "ptbxl-3483",
+  "classId": "AE",
+  "acceptable": [
+   "AE"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3483,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3483.png"
+ },
+ {
+  "id": "ptbxl-260",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 260,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/260.png"
+ },
+ {
+  "id": "ptbxl-320",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 320,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/320.png"
+ },
+ {
+  "id": "ptbxl-743",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 743,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/743.png"
+ },
+ {
+  "id": "ptbxl-840",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 840,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/840.png"
+ },
+ {
+  "id": "ptbxl-907",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 907,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/907.png"
+ },
+ {
+  "id": "ptbxl-2221",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2221,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2221.png"
+ },
+ {
+  "id": "ptbxl-4132",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4132,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/4132.png"
+ },
+ {
+  "id": "ptbxl-5538",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 5538,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/5538.png"
+ },
+ {
+  "id": "ptbxl-6310",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6310,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6310.png"
+ },
+ {
+  "id": "ptbxl-6479",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6479,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6479.png"
+ },
+ {
+  "id": "ptbxl-6537",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 6537,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/6537.png"
+ },
+ {
+  "id": "ptbxl-7345",
+  "classId": "LQT",
+  "acceptable": [
+   "LQT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 7345,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/7345.png"
+ },
+ {
+  "id": "ptbxl-28",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 28,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/28.png"
+ },
+ {
+  "id": "ptbxl-1644",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1644,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/1644.png"
+ },
+ {
+  "id": "ptbxl-2011",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 2011,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/2011.png"
+ },
+ {
+  "id": "ptbxl-3385",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3385,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/3385.png"
+ },
+ {
+  "id": "ptbxl-5033",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 5033,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/5033.png"
+ },
+ {
+  "id": "ptbxl-10512",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 10512,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/10512.png"
+ },
+ {
+  "id": "ptbxl-11860",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 11860,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/11860.png"
+ },
+ {
+  "id": "ptbxl-12545",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 12545,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/12545.png"
+ },
+ {
+  "id": "ptbxl-18945",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 18945,
+  "likelihood": 100.0,
+  "validated": true,
+  "image": "ecgs/18945.png"
+ },
+ {
+  "id": "ptbxl-1594",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1594,
+  "likelihood": 80.0,
+  "validated": true,
+  "image": "ecgs/1594.png"
+ },
+ {
+  "id": "ptbxl-3921",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 3921,
+  "likelihood": 80.0,
+  "validated": true,
+  "image": "ecgs/3921.png"
+ },
+ {
+  "id": "ptbxl-4130",
+  "classId": "DIG",
+  "acceptable": [
+   "DIG"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 4130,
+  "likelihood": 80.0,
+  "validated": true,
+  "image": "ecgs/4130.png"
+ },
+ {
+  "id": "ptbxl-348",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 348,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/348.png"
+ },
+ {
+  "id": "ptbxl-407",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 407,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/407.png"
+ },
+ {
+  "id": "ptbxl-442",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 442,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/442.png"
+ },
+ {
+  "id": "ptbxl-971",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 971,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/971.png"
+ },
+ {
+  "id": "ptbxl-1067",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1067,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1067.png"
+ },
+ {
+  "id": "ptbxl-1415",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1415,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1415.png"
+ },
+ {
+  "id": "ptbxl-1450",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1450,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1450.png"
+ },
+ {
+  "id": "ptbxl-1599",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1599,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1599.png"
+ },
+ {
+  "id": "ptbxl-1681",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1681,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1681.png"
+ },
+ {
+  "id": "ptbxl-1693",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1693,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1693.png"
+ },
+ {
+  "id": "ptbxl-1744",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1744,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1744.png"
+ },
+ {
+  "id": "ptbxl-1754",
+  "classId": "LVOLT",
+  "acceptable": [
+   "LVOLT"
+  ],
+  "set": "A",
+  "source": "PTB-XL v1.0.3",
+  "ecgId": 1754,
+  "likelihood": 0.0,
+  "validated": true,
+  "image": "ecgs/1754.png"
+ }
+]

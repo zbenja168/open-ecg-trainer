@@ -1,0 +1,29 @@
+class_id,group,teaching_class,set,ptbxl_codes,ptbxl_stadium,snomed_codes,report_regex,notes
+NORM,Normal and variants,Normal sinus rhythm,both,NORM,,,,"Served in both sets as the 'normal' foil; excluded from the primary contrast. SNOMED 'sinus rhythm' marks rhythm, not a normal ECG"
+SB,Normal and variants,Sinus bradycardia,A,SBRAD,,426177001,,
+STACH,Normal and variants,Sinus tachycardia,B,STACH,,427084000,,
+EREP,Normal and variants,Early repolarisation,A,,,428417006,,No SCP code in PTB-XL
+STEMI_ANTLAT,Ischaemia and infarction,STEMI anterior/anterolateral,A,AMI;ASMI;ALMI;LMI,Stadium I,54329005;57054005,,"Lateral merged in 2026-10-16 (26 lateral-only candidates). PTB-XL acute = infarction_stadium1 'Stadium I' (unverified)"
+STEMI_INF,Ischaemia and infarction,STEMI inferior,A,IMI;ILMI,Stadium I,,,
+POST,Ischaemia and infarction,Posterior pattern,A,PMI;IPMI;IPLMI,,,,
+NSTEMI,Ischaemia and infarction,NSTEMI-type changes (subendocardial injury),A,INJAS;INJAL;INJIN;INJLA;INJIL,,429622005,,"SNOMED ST depression is a finding, not a diagnosis; review needed"
+OLDMI,Ischaemia and infarction,Old infarction by territory,A,IMI;ASMI;AMI;ALMI;LMI;ILMI,Stadium III,164867002,,
+LBBB,Conduction,LBBB,B,CLBBB,,733534002;164909002,,
+RBBB,Conduction,RBBB,B,CRBBB,,713427006;59118001,,
+BIFASC,Conduction,Bifascicular block,B,CRBBB+LAFB;CRBBB+LPFB,,,,"'+' = both codes on one record; SNOMED co-occurrence needs record headers"
+AVB1,Conduction,First-degree AV block,B,1AVB,,270492004,,
+AVB2,Conduction,Second-degree AV block (Mobitz I and II),B,2AVB,,54016002;426183003;195042002,,"Mobitz I/II merged 2026-10-16 (7 Mobitz II in all sources); feedback teaches the distinction"
+AVB3,Conduction,Third-degree AV block,B,3AVB,,27885002,,
+WPW,Conduction,WPW,B,WPW,,74390002;195060002,,
+AF,Arrhythmia,Atrial fibrillation,B,AFIB,,164889003,,
+AFL,Arrhythmia,Atrial flutter,B,AFLT,,164890007,,"Ningbo has 7,615 AFL and 0 AF: exclude Ningbo from AF and AFL"
+SVT,Arrhythmia,SVT,B,SVTAC;PSVT,,426761007;67198005;251166008;233897008,,
+VT,Arrhythmia,Ventricular tachycardia,B,,,164895002;425856008,,10-s resting ECGs rarely capture VT; almost all candidates are Ningbo
+PVC,Arrhythmia,PVCs,B,PVC,,427172004;17338001;164884008,,
+PACED,Arrhythmia,Paced rhythm,B,PACE,,10370003;251266004;251268003,,
+LVH,Chamber and electrolyte,LVH,A,LVH,,164873001,,
+RVH,Chamber and electrolyte,RVH,A,RVH,,89792004,,
+AE,Chamber and electrolyte,Atrial enlargement,A,LAO/LAE;RAO/RAE,,67741000119109;446813000;253352002;446358003;253339007,,
+LQT,Chamber and electrolyte,Long QT,A,LNGQT,,111975006,,
+DIG,Other patterns,Digoxin effect,A,DIG,,,,
+LVOLT,Other patterns,Low voltage,A,LVOLT,,251146004,,

@@ -1,0 +1,29 @@
+class_id,teaching_class,ptbxl_ge50,ptbxl_ge50_validated,ptbxl_ge50_fold9_10,ptbxl_ge100,ptbxl_report_text,snomed_Chapman_Shaoxing,snomed_Ningbo,snomed_Georgia,snomed_CPSC,snomed_CPSC_Extra,snomed_total_marginal
+NORM,Normal sinus rhythm,9438,7777,1896,7172,,0,0,0,0,0,0
+SB,Sinus bradycardia,637,506,128,637,,3889,12670,1677,0,45,18281
+STACH,Sinus tachycardia,826,685,165,826,,1568,5687,1261,0,303,8819
+EREP,Early repolarisation,0,0,0,0,,22,344,140,0,0,506
+STEMI_ANTLAT,STEMI anterior/anterolateral,108,66,16,97,,0,106,0,0,62,168
+STEMI_INF,STEMI inferior,68,44,16,60,,0,0,0,0,0,0
+POST,Posterior pattern,92,64,20,63,,0,0,0,0,0,0
+NSTEMI,NSTEMI-type changes (subendocardial injury),319,230,66,298,,402,1266,38,869,57,2632
+OLDMI,Old infarction by territory,776,738,167,483,,0,0,0,0,1168,1168
+LBBB,LBBB,536,292,108,535,,205,248,231,236,38,958
+RBBB,RBBB,540,374,109,536,,454,1291,570,1857,114,4286
+BIFASC,Bifascicular block,245,164,47,243,,0,0,0,0,0,0
+AVB1,First-degree AV block,790,561,159,779,,247,893,769,722,106,2737
+AVB2,Second-degree AV block (Mobitz I and II),14,11,2,14,,14,90,23,0,21,148
+AVB3,Third-degree AV block,16,14,4,15,,1,75,8,0,27,111
+WPW,WPW,79,29,15,70,,16,68,4,0,6,94
+AF,Atrial fibrillation,1514,994,303,1514,,1780,0,570,1221,153,3724
+AFL,Atrial flutter,73,54,14,73,,445,7615,186,0,54,8300
+SVT,SVT,42,37,10,42,,611,155,32,0,3,801
+VT,Ventricular tachycardia,0,0,0,0,,0,109,0,0,1,110
+PVC,PVCs,1143,751,228,1143,,294,1091,398,700,196,2679
+PACED,Paced rhythm,294,100,57,294,,0,1182,98,0,3,1283
+LVH,LVH,1751,1159,340,1085,,15,632,1232,0,158,2037
+RVH,RVH,112,64,20,55,,4,106,86,0,20,216
+AE,Atrial enlargement,497,353,98,381,,3,42,956,0,59,1060
+LQT,Long QT,116,72,23,110,,57,337,1391,0,4,1789
+DIG,Digoxin effect,175,174,35,115,,0,0,0,0,0,0
+LVOLT,Low voltage,182,181,37,182,,249,794,374,0,0,1417
