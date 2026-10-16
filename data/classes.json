@@ -1,0 +1,198 @@
+[
+ {
+  "id": "NORM",
+  "group": "Normal and variants",
+  "name": "Normal sinus rhythm",
+  "set": "both",
+  "available": true
+ },
+ {
+  "id": "SB",
+  "group": "Normal and variants",
+  "name": "Sinus bradycardia",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "STACH",
+  "group": "Normal and variants",
+  "name": "Sinus tachycardia",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "EREP",
+  "group": "Normal and variants",
+  "name": "Early repolarisation",
+  "set": "A",
+  "available": false
+ },
+ {
+  "id": "STEMI_ANTLAT",
+  "group": "Ischaemia and infarction",
+  "name": "STEMI anterior/anterolateral",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "STEMI_INF",
+  "group": "Ischaemia and infarction",
+  "name": "STEMI inferior",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "POST",
+  "group": "Ischaemia and infarction",
+  "name": "Posterior pattern",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "NSTEMI",
+  "group": "Ischaemia and infarction",
+  "name": "NSTEMI-type changes (subendocardial injury)",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "OLDMI",
+  "group": "Ischaemia and infarction",
+  "name": "Old infarction by territory",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "LBBB",
+  "group": "Conduction",
+  "name": "LBBB",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "RBBB",
+  "group": "Conduction",
+  "name": "RBBB",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "BIFASC",
+  "group": "Conduction",
+  "name": "Bifascicular block",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "AVB1",
+  "group": "Conduction",
+  "name": "First-degree AV block",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "AVB2",
+  "group": "Conduction",
+  "name": "Second-degree AV block (Mobitz I and II)",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "AVB3",
+  "group": "Conduction",
+  "name": "Third-degree AV block",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "WPW",
+  "group": "Conduction",
+  "name": "WPW",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "AF",
+  "group": "Arrhythmia",
+  "name": "Atrial fibrillation",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "AFL",
+  "group": "Arrhythmia",
+  "name": "Atrial flutter",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "SVT",
+  "group": "Arrhythmia",
+  "name": "SVT",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "VT",
+  "group": "Arrhythmia",
+  "name": "Ventricular tachycardia",
+  "set": "B",
+  "available": false
+ },
+ {
+  "id": "PVC",
+  "group": "Arrhythmia",
+  "name": "PVCs",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "PACED",
+  "group": "Arrhythmia",
+  "name": "Paced rhythm",
+  "set": "B",
+  "available": true
+ },
+ {
+  "id": "LVH",
+  "group": "Chamber and electrolyte",
+  "name": "LVH",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "RVH",
+  "group": "Chamber and electrolyte",
+  "name": "RVH",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "AE",
+  "group": "Chamber and electrolyte",
+  "name": "Atrial enlargement",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "LQT",
+  "group": "Chamber and electrolyte",
+  "name": "Long QT",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "DIG",
+  "group": "Other patterns",
+  "name": "Digoxin effect",
+  "set": "A",
+  "available": true
+ },
+ {
+  "id": "LVOLT",
+  "group": "Other patterns",
+  "name": "Low voltage",
+  "set": "A",
+  "available": true
+ }
+]
